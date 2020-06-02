@@ -12,10 +12,10 @@ Gulp is setup to accomplish:
 
 ## Quickstart
 
-- Clone Reop
+- Clone Repo
 - Install Node.js
 - Run npm install
-- Run gulp to run the default Gulp task
+- Run `gulp` in terminal to run the default Gulp task
 
 ## Instructions
 
